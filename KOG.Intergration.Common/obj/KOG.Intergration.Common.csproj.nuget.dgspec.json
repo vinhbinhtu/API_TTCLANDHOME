@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {}
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {}
   },
   "projects": {
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
+        "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
         "projectName": "KOG.Intergration.Common",
-        "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
+        "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
         "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-        "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\obj\\",
+        "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",

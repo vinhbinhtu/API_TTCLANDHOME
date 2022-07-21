@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj": {}
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj": {}
   },
   "projects": {
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
+        "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
         "projectName": "KOG.Intergration.Common",
-        "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
+        "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
         "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-        "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\obj\\",
+        "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj": {
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
+        "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
         "projectName": "KOG.Intergration.DataService",
-        "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
+        "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
         "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-        "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\obj\\",
+        "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,11 +96,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
-                "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj"
+              "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj": {
+                "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj"
               },
-              "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj": {
-                "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj"
+              "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj": {
+                "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj": {
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
+        "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
         "projectName": "KOG.Intergration.Entity.Models",
-        "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
+        "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
         "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-        "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\obj\\",
+        "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -231,14 +231,14 @@
         }
       }
     },
-    "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj": {
+    "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj",
+        "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj",
         "projectName": "KOG.Intergration.Models",
-        "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj",
+        "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\KOG.Intergration.Models.csproj",
         "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-        "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Models\\obj\\",
+        "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,8 +255,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj": {
-                "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj"
+              "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj": {
+                "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj"
               }
             }
           }

@@ -210,11 +210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
+      "projectUniqueName": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
       "projectName": "KOG.Intergration.Entity.Models",
-      "projectPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
+      "projectPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
       "packagesPath": "C:\\Users\\vinhlh\\.nuget\\packages\\",
-      "outputPath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\obj\\",
+      "outputPath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinhlh\\AppData\\Roaming\\NuGet\\NuGet.Config",

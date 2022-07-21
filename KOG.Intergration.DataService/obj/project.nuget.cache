@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NYmQtsFdqmr4c8OpYWgSnZ430QIM5ngiCNctM8dov/CLCA5l8E27VCviKOwbdrOyvpWlbXvwaxr0jprvXInjvA==",
+  "dgSpecHash": "oTWi0YIZvn+uKB3e4RHQFC6MXZpnIuz702wWGO0cOQDrAUu7Y2tdBdmc6nh48GRcYFJp1lF8oGfz+x3vwR3wtw==",
   "success": true,
-  "projectFilePath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
+  "projectFilePath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.DataService\\KOG.Intergration.DataService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinhlh\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\vinhlh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uxDPjs4DGSpR7R+LaAQA1y1nrK1xfvvxp6P7DfMXHvPUpZH7eTCeVRzOiR+pdXM76G9GVx4jQHE4nhPtoqEvsA==",
+  "dgSpecHash": "WsQosHJn9sQVm3pW6cGCKCUer40gBcEVtQ31w/oBP1q8u11gfNmFen6i8L3dfuXanjhBVZBtzbia3BZ11Qb5bg==",
   "success": true,
-  "projectFilePath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
+  "projectFilePath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Common\\KOG.Intergration.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinhlh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\vinhlh\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

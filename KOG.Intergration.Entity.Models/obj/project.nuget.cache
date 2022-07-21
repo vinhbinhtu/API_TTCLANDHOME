@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c9ecIce9Enq87mHFQiSLE7bLLXgx5r70tRbvmaejo+1gSd99VeA6SRUcp4Wfa+3ftJIzftGrIO2/9RG6WfQQMA==",
+  "dgSpecHash": "XftnsNusBQ26SvfqS/K3oNGZej15GTmq+2JXjLQcp4sholsFR07uIkE3f/todf+IyUI5KoH+CNG9OPzgByb5eQ==",
   "success": true,
-  "projectFilePath": "D:\\API Rosy\\RosyDB-Intergration\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
+  "projectFilePath": "D:\\TTC Land\\APIHOME\\API_TTCLANDHOME\\KOG.Intergration.Entity.Models\\KOG.Intergration.Entity.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinhlh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\vinhlh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
