@@ -1,0 +1,15 @@
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\bin\Debug\net6.0\KOG.Intergration.Models.deps.json
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\bin\Debug\net6.0\KOG.Intergration.Models.dll
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\bin\Debug\net6.0\KOG.Intergration.Models.pdb
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\bin\Debug\net6.0\KOG.Intergration.Entity.Models.dll
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\bin\Debug\net6.0\KOG.Intergration.Entity.Models.pdb
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.csproj.AssemblyReference.cache
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.AssemblyInfoInputs.cache
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.AssemblyInfo.cs
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.csproj.CoreCompileInputs.cache
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.csproj.CopyComplete
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.dll
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\refint\KOG.Intergration.Models.dll
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\KOG.Intergration.Models.pdb
+D:\API Rosy\RosyDB-Intergration\KOG.Intergration.Models\obj\Debug\net6.0\ref\KOG.Intergration.Models.dll

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KOG.Intergration</name>
+    </assembly>
+    <members>
+        <member name="M:KOG.Intergration.Controllers.BoPhanController.GetAllBoPhan(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:KOG.Intergration.Controllers.NhanVienController.GetAllNhanVien(System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:KOG.Intergration.Controllers.UserController.Authenticate(KOG.Intergration.Models.Auth.AuthenticateRequest)">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

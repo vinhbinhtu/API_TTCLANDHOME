@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOG.Intergration", "KOG.Intergration\KOG.Intergration.csproj", "{25B0941A-BFA4-4002-B9C6-C3A92720CE6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOG.Intergration.BusinessService", "KOG.Intergration.BusinessService\KOG.Intergration.BusinessService.csproj", "{5A438DC7-EE5F-4FAB-933A-02E008ED153B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOG.Intergration.DataService", "KOG.Intergration.DataService\KOG.Intergration.DataService.csproj", "{FE1E661B-5F51-4F5C-9CCC-55893E78BA28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOG.Intergration.Models", "KOG.Intergration.Models\KOG.Intergration.Models.csproj", "{1D8993C0-8EF5-4B5F-B74D-54E9F17E3C58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOG.Intergration.Common", "KOG.Intergration.Common\KOG.Intergration.Common.csproj", "{31E13158-3EC5-452B-9900-E5E88CF60B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOG.Intergration.Entity.Models", "KOG.Intergration.Entity.Models\KOG.Intergration.Entity.Models.csproj", "{CA5A26FD-65C4-4ADA-9620-F0FA7BD071EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B0941A-BFA4-4002-B9C6-C3A92720CE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B0941A-BFA4-4002-B9C6-C3A92720CE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B0941A-BFA4-4002-B9C6-C3A92720CE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B0941A-BFA4-4002-B9C6-C3A92720CE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A438DC7-EE5F-4FAB-933A-02E008ED153B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A438DC7-EE5F-4FAB-933A-02E008ED153B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A438DC7-EE5F-4FAB-933A-02E008ED153B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A438DC7-EE5F-4FAB-933A-02E008ED153B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1E661B-5F51-4F5C-9CCC-55893E78BA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1E661B-5F51-4F5C-9CCC-55893E78BA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1E661B-5F51-4F5C-9CCC-55893E78BA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1E661B-5F51-4F5C-9CCC-55893E78BA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8993C0-8EF5-4B5F-B74D-54E9F17E3C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8993C0-8EF5-4B5F-B74D-54E9F17E3C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8993C0-8EF5-4B5F-B74D-54E9F17E3C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8993C0-8EF5-4B5F-B74D-54E9F17E3C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E13158-3EC5-452B-9900-E5E88CF60B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E13158-3EC5-452B-9900-E5E88CF60B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E13158-3EC5-452B-9900-E5E88CF60B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E13158-3EC5-452B-9900-E5E88CF60B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5A26FD-65C4-4ADA-9620-F0FA7BD071EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5A26FD-65C4-4ADA-9620-F0FA7BD071EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5A26FD-65C4-4ADA-9620-F0FA7BD071EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5A26FD-65C4-4ADA-9620-F0FA7BD071EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {533A926A-10D7-4724-802B-3A166FEBA1CB}
+	EndGlobalSection
+EndGlobal
